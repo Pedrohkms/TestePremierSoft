@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TestePremierSoft</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="favourite">My List</string>
+    <string name="search">Search…</string>
+    <string name="business">Business</string>
 </resources>
